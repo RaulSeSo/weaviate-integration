@@ -1,0 +1,1 @@
+FROM semitechnologies/multi2vec-clip:sentence-transformers-clip-ViT-B-32-multilingual-v1
